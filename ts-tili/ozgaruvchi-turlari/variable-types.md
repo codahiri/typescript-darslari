@@ -1,25 +1,30 @@
 # O'zgaruvchi turlari
 
-TypeScript-da 
-  - Number
-  - String
-  - Boolean
-  - Any
-tipidagi o'zgaruvchi turlari mavjud
+TypeScript-da
+
+- Number
+- String
+- Boolean
+- Any
+- Array
+  tipidagi o'zgaruvchi turlari mavjud.
 
 ## O'zgaruvchlarni e'lon qilish:
 ```javascript
-  // Number
-  let num: number;
+// Number
+let num: number;
 
-  // String
-  let str: string;
+// String
+let str: string;
 
-  // Boolean
-  let foo: boolean;
+// Boolean
+let foo: boolean;
 
-  // Any
-  let baz;
+// Any
+let baz;
+
+// Array
+let arr: number[];
 ```
 
 ## O'zgaruvchilarga qiymat berish:
@@ -35,6 +40,37 @@ tipidagi o'zgaruvchi turlari mavjud
 
   // Any
   let bazz: any;
-  bazz = "Hello World"
-  bazz = 12
+  bazz = "Hello World";
+  bazz = 12;
+
+  // Array
+  let arr: number[] = [1,2,3];
+  let arr2: string[] = ['a','b','c']
+  let arr3: any[] = [1,2,'Salom',true]
+```
+
+## `enum`
+Bulardan tashqari `enum` tipi ham mavjud. Uning vazifasi bir biriga aloqador bo'lgan o'zgarmaslarni bitta kontentga yig'ib berishdir.
+Masalan:
+
+```javascript
+  enum Color {Red = 150, Green = 15, Blue = 20};
+  let textColor: Color.Red;
+```
+
+## O'zgaruvchi tiplari qiymatlari bilan ishlash
+
+_String_ tipidagi o'zgaruvchi ustida mallar
+```javascript
+  let str: string = "Developer";
+  str = str.toLowerCase();
+  // O'zgaruvchi turini bildirish 1
+  let bazz2;
+  bazz2 = "Programmer";
+  bazz2 = (<string>bazz2).toUpperCase()
+
+  // O'zgaruvchi turini bildirish 2
+  let bazz3;
+  bazz3 = "Programmer";
+  bazz3 = (bazz3 as string).toUpperCase()
 ```
