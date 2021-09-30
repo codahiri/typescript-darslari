@@ -19,3 +19,9 @@
 ## TypeScript-ning JavaScript-ga o'girilishi
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.webtrainingroom.com%2Fblogimages%2Fts2js.png&f=1&nofb=1" alt="conversion of typescript to javascript" width="100%" />
+
+```javascript
+  >> main.ts
+  >> tsc main.ts
+  >> main.ts main.js
+```
