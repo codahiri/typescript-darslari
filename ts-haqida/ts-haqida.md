@@ -20,8 +20,19 @@
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.webtrainingroom.com%2Fblogimages%2Fts2js.png&f=1&nofb=1" alt="conversion of typescript to javascript" width="100%" />
 
+_main.ts_ fayli
 ```javascript
-  >> main.ts
-  >> tsc main.ts
-  >> main.ts main.js
+  function log(message){
+    console.log(message);
+  }
+  var message = "Salom Dunyo"
+  log(message);
+```
+_main.ts_ -ning kopilyatsiya qilinishi
+```bash
+  [ilosrim@developer] tsc main.ts
+```
+Kopmilyatsiya qilingan fayl
+```bash
+  [ilosrim@developer] main.ts main.js
 ```
