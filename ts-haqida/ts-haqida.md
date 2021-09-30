@@ -14,4 +14,4 @@
 
 ## Web brauzer arxitekturasi
 
-<img src="https://image.slidesharecdn.com/web-browserarchitecture-150609231155-lva1-app6892/95/web-browser-architecture-2-638.jpg?cb=1433891674" alt="Web brauzer arxitekturasi" />
+<img src="https://image.slidesharecdn.com/web-browserarchitecture-150609231155-lva1-app6892/95/web-browser-architecture-2-638.jpg?cb=1433891674" alt="Web brauzer arxitekturasi" width="100%" />
