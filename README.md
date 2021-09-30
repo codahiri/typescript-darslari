@@ -12,3 +12,7 @@
   - [Access modifier-lar](./ts-tili/access-mod)
   - [Xossalar (Properties)](./ts-tili/xossalar)
   - [Modullar](./ts-tili/modullar)
+
+> Material Farhod Dadajonovning [YouTube](https://youtube.com/playlist?list=PL_WK6W0Gn1I7CYZCJahrIV7DmT3toFJMd) kanalidagi TypeScript darslari va internet ma'lumotlari asosida tuzuldi.
+
+> Tuzuvchi [ilosrim](https://t.me/ilosrim)
