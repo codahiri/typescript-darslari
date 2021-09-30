@@ -22,7 +22,7 @@ tipidagi o'zgaruvchi turlari mavjud
   let baz;
 ```
 
-## O'zgaruvchilarga qiymat bersih:
+## O'zgaruvchilarga qiymat berish:
 ```javascript
   // Number
   let num: number = 13;
