@@ -37,3 +37,8 @@ Kopmilyatsiya qilingan fayl
   [ilosrim@developer] ls
   [ilosrim@developer] main.ts main.js
 ```
+_main.js_ -nini ishlatib ko'ramiz
+```bash
+  [ilosrim@developer] node main.js
+  [ilosrim@developer] Salom Dunyo
+```
