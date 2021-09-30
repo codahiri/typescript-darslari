@@ -1,8 +1,6 @@
 # TypeScript darslari
 
-![TypeScript](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.CYXsO7xYcSxpw4TXXQiduAHaD1%26pid%3DApi&f=1)
-
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.CYXsO7xYcSxpw4TXXQiduAHaD1%26pid%3DApi&f=1" width='100%' />
+<img src="https://i.pinimg.com/originals/c3/8e/e8/c38ee8475ee7f3680f706c56c3a1194c.png" width='100%' />
 
 - TypeScript haqida tushuncha
 - TypeScript tili
