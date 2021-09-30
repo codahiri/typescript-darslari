@@ -34,5 +34,6 @@ _main.ts_ -ning kopilyatsiya qilinishi
 ```
 Kopmilyatsiya qilingan fayl
 ```bash
+  [ilosrim@developer] ls
   [ilosrim@developer] main.ts main.js
 ```
