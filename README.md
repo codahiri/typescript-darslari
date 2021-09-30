@@ -4,7 +4,7 @@
 
 - [TypeScript haqida tushuncha](./ts-haqida/ts-haqida.md)
 - [TypeScript tili](./ts-tili)
-  - [O'zgaruvchilar turlari]()
+  - [O'zgaruvchilar turlari](./ts-tili/ozgaruvchi-turlari/variable-types.md)
   - [Arrow funksiyalar]()
   - [Interfeyslar]()
   - [Classlar]()

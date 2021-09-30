@@ -1,0 +1,1 @@
+# O'zgaruvchi turlari
