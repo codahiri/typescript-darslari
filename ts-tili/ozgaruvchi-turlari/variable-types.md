@@ -34,6 +34,7 @@ tipidagi o'zgaruvchi turlari mavjud
   let foo: boolean true;
 
   // Any
-  let baz = 20;
-  let baz = "Salom Dunyo";
+  let bazz: any;
+  bazz = "Hello World"
+  bazz = 12
 ```
