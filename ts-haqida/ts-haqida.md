@@ -15,3 +15,7 @@
 ## Web brauzer arxitekturasi
 
 <img src="https://image.slidesharecdn.com/web-browserarchitecture-150609231155-lva1-app6892/95/web-browser-architecture-2-638.jpg?cb=1433891674" alt="Web brauzer arxitekturasi" width="100%" />
+
+## TypeScript-ning JavaScript-ga o'girilishi
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.webtrainingroom.com%2Fblogimages%2Fts2js.png&f=1&nofb=1" alt="conversion of typescript to javascript" width="100%" />
