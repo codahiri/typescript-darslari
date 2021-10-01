@@ -8,6 +8,7 @@
   - [Funksiyalar](./ts-tili/funksiyalar)
   - [Interfeyslar](./ts-tili/interfeyslar)
   - [Klasslar](./ts-tili/klasslar)
+  - [Obyektlar](./ts-tili/obyektlar)
   - [Konstruktorlar](./ts-tili/konstruktorlar)
   - [Access modifier-lar](./ts-tili/access-mod)
   - [Xossalar (Properties)](./ts-tili/xossalar)
