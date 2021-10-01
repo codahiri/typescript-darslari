@@ -1,6 +1,6 @@
 # Interfeyslar
 
-_Interfeys_ - bu subyekt mos kelishi kerak bo'lgan sintaktik shartnoma. Boshqacha qilib aytganda, interfeys har qanday ob'ekt rioya qilishi kerak bo'lgan sintaksisini aniqlaydi.
+_Interfeys_ - bu subyekt mos kelishi kerak bo'lgan sintaktik shartnoma. Boshqacha qilib aytganda, interfeys har qanday obyekt rioya qilishi kerak bo'lgan sintaksisini aniqlaydi.
 
 ## Interfeys funksiyada
 Interfeyslar funksiyamizda parametrlar ko'payib ketsa, ularni ma'lum bir to'plamga birlashtirib olish uchun ishlatiladi.
