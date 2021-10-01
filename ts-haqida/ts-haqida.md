@@ -28,16 +28,16 @@ _main.ts_ fayli
   var message = "Salom Dunyo"
   log(message);
 ```
-_main.ts_ -ning kopilyatsiya qilinishi
+_main.ts_ -ning kompilyatsiya qilinishi
 ```bash
   [ilosrim@developer] tsc main.ts
 ```
-Kopmilyatsiya qilingan fayl
+Kompilyatsiya qilingan fayl
 ```bash
   [ilosrim@developer] ls
   [ilosrim@developer] main.ts main.js
 ```
-_main.js_ -nini ishlatib ko'ramiz
+_main.js_ -ni ishlatib ko'ramiz
 ```bash
   [ilosrim@developer] node main.js
   [ilosrim@developer] Salom Dunyo
