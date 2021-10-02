@@ -1,3 +1,5 @@
+# Access modifier-lar
+
 ## Ma'lumotlarni yashirish
 Class o'z ma'lumotlari a'zolarining boshqa sinf a'zolariga ko'rinishini boshqarishi mumkin. Bu imkoniyat ma'lumotlarni yashirish yoki inkapsulatsiya deb nomlanadi.
 
@@ -14,7 +16,7 @@ TypeScript tomonidan qo'llab -quvvatlanadigan kirish modifikatorlari -
 
 ```javascript
 class Encapsulate { 
-   str:string = "hello" 
+   public str:string = "hello" 
    private str2:string = "world" 
 }
  
