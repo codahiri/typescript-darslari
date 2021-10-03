@@ -1,7 +1,8 @@
-# Access modifier-lar
-
+# TypeScript Access Modifiers-lar
 ## Ma'lumotlarni yashirish
-Class o'z ma'lumotlari a'zolarining boshqa sinf a'zolariga ko'rinishini boshqarishi mumkin. Bu imkoniyat ma'lumotlarni yashirish yoki inkapsulatsiya deb nomlanadi.
+Boshqa dasturlash tillari singari, Typescript ham kirish darajalarini o'zgartirish darajalarini sinf darajasida ishlatishga imkon beradi. Bu sinf a'zosiga to'g'ridan -to'g'ri kirishni boshqarishni beradi. Bu sinf a'zolari funktsiyalar va xususiyatlardir. Biz sinf a'zolaridan o'z sinfida, sinfdan tashqarida yoki uning bolasi yoki sinfidan foydalanishimiz mumkin. Kirish modifikatori sinf a'zolarining xavfsizligini oshiradi va ularning noto'g'ri ishlatilishining oldini oladi. Bundan tashqari, biz uni sinf a'zolarining ko'rinishini nazorat qilish uchun ham ishlatishimiz mumkin. Agar sinfga hech qanday kirish o'zgartirish vositasi o'rnatilishi shart bo'lmasa, TypeScript avtomatik ravishda barcha sinf a'zolariga ommaviy kirish modifikatorini o'rnatadi.
+
+> Class o'z ma'lumotlari a'zolarining boshqa sinf a'zolariga ko'rinishini boshqarishi mumkin. Bu imkoniyat ma'lumotlarni yashirish yoki inkapsulatsiya deb nomlanadi.
 
 TypeScript tomonidan qo'llab -quvvatlanadigan kirish modifikatorlari -
 
