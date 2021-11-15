@@ -60,7 +60,7 @@ Masalan:
 
 ## O'zgaruvchi tiplari qiymatlari bilan ishlash
 
-_String_ tipidagi o'zgaruvchi ustida mallar
+_String_ tipidagi o'zgaruvchi ustida amallar
 ```javascript
   let str: string = "Developer";
   str = str.toLowerCase();
