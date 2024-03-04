@@ -1,4 +1,6 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.Shape = void 0;
 class Shape {
     get x() {
         return this._x;
@@ -18,5 +20,4 @@ class Shape {
         console.log(this._y.toString());
     }
 }
-let shape = new Shape(10, 20);
-shape.x = 2;
+exports.Shape = Shape;

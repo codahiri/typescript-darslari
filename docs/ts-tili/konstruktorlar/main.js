@@ -1,13 +1,13 @@
-var Shape = /** @class */ (function () {
-    function Shape(x, y) {
+"use strict";
+class Shape {
+    constructor(x, y) {
         this.x = x;
         this.y = y;
     }
-    Shape.prototype.draw = function () {
+    draw() {
         // ...
         console.log(this.x.toString());
         console.log(this.y.toString());
-    };
-    return Shape;
-}());
-var shape = new Shape();
+    }
+}
+let shape = new Shape();
